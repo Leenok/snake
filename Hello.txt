@@ -2,3 +2,4 @@ print("Hello world!")
 print("Hello Bob!")
 print("Hello Linda and Leon!")
 >>>>>>> master
+print("Hello day!")
